@@ -1,0 +1,10 @@
+{
+  "description": "Explore a faithful, high-fidelity wireframe recreation of a website through separate navigable windows, ready to insert into Figma.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
